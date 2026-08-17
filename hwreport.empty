@@ -2,5 +2,5 @@
 HOST=inventoryhostname
 MEMORY=total_memory
 BIOS=bios_version
-VDA_SIZE=ansible_sda_size
-VDB_SIZE=ansible_sdb_size
+SDA_SIZE=ansible_sda_size
+SDB_SIZE=ansible_sdb_size
