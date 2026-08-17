@@ -1,0 +1,12 @@
+---
+users:
+  - name: emma
+    job: developer
+  - name: liam
+    job: developer
+  - name: noah
+    job: developer
+  - name: olivia
+    job: manager
+  - name: ethan
+    job: manager
